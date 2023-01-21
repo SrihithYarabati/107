@@ -1,0 +1,33 @@
+.class_right_footer {
+position:fixed;
+bottom: 0;
+width: 10%;
+text-align: center;
+background-color: beige;
+}
+
+h1 {
+color: aqua;
+}
+
+h4{
+border: 10%;
+}
+
+#camera {
+    width: 10px;
+    height: 10px;
+    border-color: blue;
+}
+
+result1 {
+    height: 10px;
+    width: 10px;
+}
+
+img{
+    box-shadow: 0 6px 8px black  rgba(2, 2, 2, 0.2);
+}
+img.hover{
+border-radius: 140px;
+}
